@@ -27,7 +27,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/codealfa-voice-assistant.git
+git clone https://github.com/mahdi-bayoumi/codealpha-tasks.git
 cd codealfa-voice-assistant
 Install Dependencies:
 
